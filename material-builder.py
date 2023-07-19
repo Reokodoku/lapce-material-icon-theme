@@ -8,7 +8,7 @@ if not os.path.exists("./lapce_out/"):
 with open("./lapce_out/volt.toml", "w") as voltFile:
     voltFile.writelines("""name = "lapce-material-icon-theme"
 display-name = "Material Icon Theme"
-icon = "icon.png"
+icon = "logo.png"
 version = "1.0.0"
 author = "Reokodoku"
 description = "A fork of vscode-material-icon-theme that can be used for Lapce"
@@ -26,7 +26,7 @@ iconsFile.writelines("""[icon-theme]
 name = "Material Icon Theme"
 [icon-theme.ui]
 "settings" = "icons/settings.svg"
-"file" = "icons/logo.svg"
+"file" = "icons/file.svg"
 #"directory_opened" = "icons/folder.svg"
 """)
 
