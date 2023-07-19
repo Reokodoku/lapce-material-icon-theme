@@ -1,6 +1,6 @@
 name = "lapce-material-icon-theme"
 display-name = "Material Icon Theme"
-icon = "icon.png"
+icon = "logo.png"
 version = "1.0.0"
 author = "Reokodoku"
 description = "A fork of vscode-material-icon-theme that can be used for Lapce"
