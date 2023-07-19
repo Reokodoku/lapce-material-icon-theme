@@ -1,3 +1,5 @@
+For "build" the icon theme for Lapce run `material-builder.py` with Python. The script will create the folder `lapce_out` where the plugin files are located.
+
 <h1 align="center">
   <br>
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/logo.png" alt="logo" width="200">

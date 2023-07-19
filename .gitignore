@@ -1,8 +1,10 @@
+lapce_out
 out
 dist
 
 node_modules
 
+pnpm-lock.yaml
 .vscode-test/**
 *.vsix
 
